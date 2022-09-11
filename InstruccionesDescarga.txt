@@ -17,3 +17,7 @@ Dentro de la carpeta del proyecto en terminal Escribir 'composer install'
 luego 'npm install && npm run dev', tienes que crear la base de datos en mysql 
 con el nombre 'inxait' y luego de ellos escribir en termina 'php artisan migrate --seed'
 ya con ello solo debes escribir 'php artisan serve' y el proyecto correra.
+
+Para ingresar al admin y dar el premio el 
+usuario es 'admin@admin.com'
+contraseña: password
