@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    height: 99.8%;
+}
+/* .body-content{
+    height: 100%;
+} */
+/* Estilos plantilla.auth */
+
+.header-auth{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    height: 3rem;
+}
+.contenedor-lista-header-auth{
+    display: flex;
+}
+.objeto-lista-header-auth{
+    margin: 1rem;
+    list-style: none;
+}
+.objeto-lista-header-auth a{
+    text-decoration: none;
+    color: black;
+}
+.contenedor-auth{
+    height: 100%;
+}
+.container-main{
+    height: 95%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.botones-login{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

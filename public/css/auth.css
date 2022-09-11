@@ -1,0 +1,96 @@
+.container-registro{
+    margin: -2rem 2rem 0rem 2rem;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.container-login{
+    height: 100%;
+    margin: 0rem 28rem 0rem 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card-registro{
+    /* border: 1px solid rgb(251, 62, 62); */
+    width: 50rem;
+    margin: 1rem 1rem 1rem 2rem;
+    background-color: rgba(255, 255, 255, 0.31);
+    box-shadow: 0 3px 20px -2px rgb(0 0 0 / 20%), 0 2px 2px 0 rgb(0 0 0 / 14%), 0 1px 5px 0 rgb(0 0 0 / 12%); 
+    border-radius: 1rem;
+}
+.card-login{
+    /* border: 1px solid rgb(251, 62, 62); */
+    width: 50rem;
+    margin: 1rem 1rem 1rem 2rem;
+    background-color: rgba(255, 255, 255, 0.31);
+    box-shadow: 0 3px 20px -2px rgb(0 0 0 / 20%), 0 2px 2px 0 rgb(0 0 0 / 14%), 0 1px 5px 0 rgb(0 0 0 / 12%); 
+    border-radius: 1rem;
+}
+.card-datatable{
+    /* border: 1px solid rgb(251, 62, 62); */
+    width: 70rem;
+    margin: 1rem 1rem 1rem 2rem;
+    padding: 1rem;
+    background-color: rgba(255, 255, 255, 0.999);
+    box-shadow: 0 3px 20px -2px rgb(0 0 0 / 20%), 0 2px 2px 0 rgb(0 0 0 / 14%), 0 1px 5px 0 rgb(0 0 0 / 12%); 
+    border-radius: 1rem;
+}
+.card-img-registro{
+    width: 50%;
+    border-radius: 1rem;
+}
+.card-body-registro{
+    display: flex;
+    justify-content: center;
+}
+.card-body-login{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.contenedor-form-registro{
+    width: 50%;
+    height: 100%;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.contenedor-form-login{
+    width: 50%;
+    height: 100%;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.card-header{
+    display: flex;
+    justify-content: end;
+    /* margin-right: 15rem; */
+}
+.formulario-registro{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.form-contenedor1-registro{
+    height: 90%;
+    width: 35rem;
+}
+.form-contenedor2-registro{
+    height: 90%;
+    width: 35rem;
+}
+.form-botones-registro{
+    height: 10%;
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+    width: 15rem;
+}
