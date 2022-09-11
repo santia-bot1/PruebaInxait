@@ -1,0 +1,19 @@
+Lo primero que debes hacer es clonar el repositorio.
+Debes tener instalado:
+Linux:
+    1.Php 8.0
+    2.Mysql 
+    3.Apache2
+    4.Composer
+    5.Todas los complementos de Php8.0
+    6.Node 16.16.0
+Windows:
+    1.Xampp
+    2.Composer
+    6.Node 16.16.0
+
+Cuando se tenga todo esto instalado y el proyecto clonado
+Dentro de la carpeta del proyecto en terminal Escribir 'composer install'
+luego 'npm install && npm run dev', tienes que crear la base de datos en mysql 
+con el nombre 'inxait' y luego de ellos escribir en termina 'php artisan migrate --seed'
+ya con ello solo debes escribir 'php artisan serve' y el proyecto correra.
